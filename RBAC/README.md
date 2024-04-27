@@ -13,6 +13,6 @@ k8s cluster.
 ---
 - **RoleBinding** and **ClusterRoleBinding** are objects that connect Roles and ClusterRoles with users.
 ---
-![](./images/RBAC_1.png)
+![](sources/images/RBAC_1.png)
 
 Link to the official k8s documentation on RBAC [here](https://kubernetes.io/docs/reference/access-authn-authz/rbac/).
